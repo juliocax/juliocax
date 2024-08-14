@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Gmail Badge](https://img.shields.io/badge/-jcaxavier2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jcaxavier2@gmail.com)](mailto:jcaxavier2@gmail.com)
